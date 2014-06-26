@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: raptus.article.filtertable
-Version: 0.1
+Version: 0.2.dev0
 Summary: 'Provides a filterable table that list all aritcles.
 Home-page: http://svn.plone.org/svn/collective/
 Author: UNKNOWN
@@ -15,6 +15,12 @@ Description: Introduction
         
         Changelog
         =========
+        
+        0.2 (unreleased)
+        ----------------
+        
+        - Nothing changed yet.
+        
         
         0.1 (2014-06-25)
         ----------------
