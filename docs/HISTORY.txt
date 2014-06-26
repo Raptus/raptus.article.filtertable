@@ -4,7 +4,7 @@ Changelog
 0.3 (unreleased)
 ----------------
 
-- Nothing changed yet.
+* Removed egg information files.
 
 
 0.2 (2014-06-26)
