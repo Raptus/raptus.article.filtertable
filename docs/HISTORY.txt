@@ -5,6 +5,8 @@ Changelog
 ----------------
 
 * Removed egg information files.
+* Added MANIFEST.in
+* Added .gitignore
 
 
 0.2 (2014-06-26)
